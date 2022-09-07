@@ -1,2 +1,2 @@
-# repo-template
+# repo_template
 Repository Template
