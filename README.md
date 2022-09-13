@@ -55,5 +55,4 @@ Description of demos
 Your name and other collaborators here
 
 # License
-
-
+Contact lab about licensing code
