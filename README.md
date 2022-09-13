@@ -4,10 +4,11 @@ For example, this is a general-purpose template repository for
 all projects in Ma Lab.
 
 ## Get Started
-To use this template for your own project, fork this repo by following
-[this guide for how to Fork a Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo). 
-Make sure you give your repository a descriptive name separated by 
-underscores instead of spaces, such as `my_project_name`.
+To use this template for your own project, select the 
+green button titled "Use this Template". By default, 
+the owner should be "NYUMaLab". Give your repository a 
+descriptive name, separated by underscores instead of spaces
+e.g. `my_project_name`.
 
 # Directory
 Every repository should have a directory for files
