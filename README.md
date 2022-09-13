@@ -8,7 +8,8 @@ To use this template for your own project, select the
 green button titled "Use this Template". By default, 
 the owner should be "NYUMaLab". Give your repository a 
 descriptive name, separated by underscores instead of spaces
-e.g. `my_project_name`.
+e.g. `my_project_name`. [Click here for a guide on how to use
+Github Repo Templates](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 # Directory
 Every repository should have a directory for files
