@@ -50,10 +50,10 @@ Instructions for how to run experiments
 # Usage (Analysis)
 Instructions for how to run analysis
 
-## Demo
+## Demo(s)
 Description of demos
 
-## Authors and Acknowledgements
+# Authors and Acknowledgements
 Your name and other collaborators here
 
 # License
